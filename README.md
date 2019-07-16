@@ -10,6 +10,7 @@ Set your github to private. This is at the bottom of the "Options"
 Set "Glen-TAMU" as a collaborator, so I can grade your work.
 
 Intro to Github: https://guides.github.com/activities/hello-world/
+
 Cloning a repo: https://help.github.com/en/articles/cloning-a-repository
 
 Coding:
