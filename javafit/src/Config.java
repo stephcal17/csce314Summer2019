@@ -5,6 +5,7 @@ public class Config {
 	public final static String APPLICATIONNAME = "JavaFit: Muscles for Computer Scientists!";
 	public final static String WORKOUTFILE = "data/workouts.csv";
 	public final static String WORKOUTFORMATFILE = "data/workoutformats.csv";
+	public final static String ICON = "data/icon.png";
 
 	public enum MuscleGroup {
 		UPPERBODY, LOWERBODY, WHOLEBODY

@@ -50,9 +50,15 @@ public class MainWindow implements ActionListener {
 		          
 		mainFrame.setSize(1200, 800);
 		mainFrame.setLayout(null);
+		
+		// icon for bonus points
+		ImageIcon img = new ImageIcon(Config.ICON);
+		mainFrame.setIconImage(img.getImage());
+		
 		mainFrame.setVisible(true);
 	}
 	
+	// handles button presses
 	public void actionPerformed(ActionEvent e) {
         String action = e.getActionCommand();
         if (action.equals("Upper Body Workout")) {
